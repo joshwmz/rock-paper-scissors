@@ -26,4 +26,11 @@ Plan:
 3. Write yet another function that make it a 5-round game to determine the winner
 
     Use for loop to do the following:
-    - 
+    - Get prompt for player's selection
+    - Quit the game if user cancels
+    - Make player's input case insensitive
+    - Check if user's input is valid
+    - Count wins, loses and ties
+    - If player or computer reaches 3 wins, stop game and announce winner
+    
+    Announce winner after 5 round of game
